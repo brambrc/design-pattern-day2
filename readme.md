@@ -21,7 +21,7 @@ Anda diminta untuk membuat sebuah API sederhana dengan tema pilihan Anda, tetapi
    - Buat controller untuk mengelola data sesuai dengan tema Anda.
    - Controller harus menerima request dari rute dan mengembalikan response yang sesuai.
 
-4. **Server/Routes (`server.js`)**
+4. **Server/Routes (`app.js`)**
    - Buat rute untuk setiap operasi pada controller.
    - Pastikan rute bekerja dengan baik dan mengembalikan response yang sesuai.
 
